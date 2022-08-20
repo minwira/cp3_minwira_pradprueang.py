@@ -1,0 +1,6 @@
+book1 = int(input("book1 : "))
+book2 = int(input("book2 : "))
+print(int(book1 + book2))
+print(int(book1 - book2))
+print(int(book1 * book2))
+print(int(book1 / book2))
