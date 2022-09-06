@@ -12,7 +12,7 @@ def leftClickButton(event) :
     elif float(result) >= 23.0:
         levelbmi = "น้ำหนักปกติ"
     elif float(result) >= 18.6:
-        levelbmi = "ผอมเกินไป"
+        levelbmi = "น้ำหนักปกติ"
     elif float(result) <= 18.5:
         levelbmi = "ผอมเกินไป"
 
